@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636211159935",
+    "firebase_url": "https://united-fintech-fd923.firebaseio.com",
+    "project_id": "united-fintech-fd923",
+    "storage_bucket": "united-fintech-fd923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636211159935:android:82976ceee6b52b0d78304a",
+        "android_client_info": {
+          "package_name": "com.emperor95.photos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636211159935-4lkcr6af46fphs166kchbku6h5ktltph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD49fc88e6-65xZUp8yiqV6POtDCD8lxJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636211159935-4lkcr6af46fphs166kchbku6h5ktltph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
